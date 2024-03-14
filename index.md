@@ -23,19 +23,20 @@ Oststraße 119<br/>
 **Director IT Systems & Infrastructure**, *tonies GmbH*, Düsseldorf, Germany.
 - \- Integrating the Business-Processes & ERP Team into the existing structure
 - \- B2B Shop project ownership
-- \- ERP Update & Technological Alignment across markets (Business Central)
+- \- ERP Update & Technological Alignment across markets
 - \- Migrating largest ERP from on-prem to SaaS
-- \- Multi-Language & Multi-Market Update for existing B2B-Shop - Launch in France (Commercetools - composable commerce)
+- \- Multi-Language & Multi-Market Update for existing B2B-Shop (composable commerce)
 - \- EDI Interface for Key-Accounts
-- \- Roll-Out MDM for Microsoft Laptops (Intune)
-- \- Implementing a Vulnerability & Patchmanagement Platform (Mondoo)
+- \- Roll-Out MDM for Microsoft Laptops
+- \- Implementing a Vulnerability & Patchmanagement Platform
 - \- MS Azure & 365 Account & Tenant Migration
-- \- Permission Management & Compliance Platform for Accounts & Permissions - incl. user provisioning & deprovisioning
+- \- Permission Management & Compliance Platform for Accounts & Permissions
 
 
 `2022-2024`
 **Head of IT Systems & Infrastructure**, *tonies GmbH*, Düsseldorf, Germany.
-- \- Building Team for Enterprise-Integration with Serverless-First approach and strong focus on DDD and EDA (AWS CDK)
+- \- Building Team for Enterprise-Integration with Serverless-First approach (AWS CDK)
+- \- Strong focus on DDD and EDA 
 - \- Set up IT Security Trainings & Awareness Program
 - \- Implementing Software Procurement Platform & Processes
 - \- Consulting and overlooking setup of invoicing tool for finance
@@ -54,7 +55,7 @@ Oststraße 119<br/>
 - \- New Office Setup (Network, Fibre, Security)
 - \- Point of contact for Data Privacy Officer
 - \- Point of contact for all topics on IT Security
-- \- Establishing new Team Structure - two Focus Teams: IT Administration | System Engineering
+- \- Establishing new Team Structure
 - \- Hardware Procurement Process Setup
 - \- OKR Planning
 - \- Budget Planning
