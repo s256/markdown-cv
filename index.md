@@ -25,6 +25,8 @@ Director IT Systems & Infrastructure
 * Implementing a Vulnerability & Patchmanagement Platform (Mondoo)
 * MS Azure & 365 Account & Tenant Migration
 * Permission Management & Compliance Platform for Accounts & Permissions - incl. user provisioning & deprovisioning
+
+
 `2022-2024`
 **Head of IT Systems & Infrastructure**, *tonies GmbH*, Düsseldorf, Germany.
 * Building Team for Enterprise-Integration with Serverless-First approach and strong focus on DDD and EDA (AWS CDK)
@@ -36,6 +38,8 @@ Director IT Systems & Infrastructure
 * Migration Elasticsearch Cluster to Opensearch (self hosted, 30 node Cluster)
 * Establishing "(IT)Security Champions" cross company to distribute load & responsibility
 * Compliance & Risk-Management for IT Processes
+
+
 `2019-2022`
 **Teamlead IT Operations**, *tonies GmbH*, Düsseldorf, Germany.
 * Hiring & Building Team for Service Desk & Infrastructure
@@ -48,6 +52,8 @@ Director IT Systems & Infrastructure
 * Hardware Procurement Process Setup
 * OKR Planning
 * Budget Planning
+
+
 `2018-2019`
 **Linux System Engineer**, *tonies GmbH*, Düsseldorf, Germany.
 * Moving Microservices to AWS (Elasticbeanstalk, Docker & Terraform)
