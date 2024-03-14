@@ -1,91 +1,122 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sebastian Noe's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sebastian Noe
+Director IT Systems & Infrastructure
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://sesc.one"><i class="fa-solid fa-house"></i> web</a> - 
+  <a href="https://github.com/s256"><i class="fa-brands fa-github"></i> s256</a> - 
+  <a href="https://www.linkedin.com/in/snoe"><i class="fa-brands fa-linkedin"></i> snoe</a> - 
 </div>
 
+## Experience
 
-## Currently
+`2024-present`
+**Director IT Systems & Infrastructure**, *tonies GmbH*, Düsseldorf, Germany.
+* Integrating the Business-Processes & ERP Team into the existing structure
+* B2B Shop project ownership
+* ERP Update & Technological Alignment across markets (Business Central)
+* Migrating largest ERP from on-prem to SaaS
+* Multi-Language & Multi-Market Update for existing B2B-Shop - Launch in France (Commercetools - composable commerce)
+* EDI Interface for Key-Accounts
+* Roll-Out MDM for Microsoft Laptops (Intune)
+* Implementing a Vulnerability & Patchmanagement Platform (Mondoo)
+* MS Azure & 365 Account & Tenant Migration
+* Permission Management & Compliance Platform for Accounts & Permissions - incl. user provisioning & deprovisioning
+`2022-2024`
+**Head of IT Systems & Infrastructure**, *tonies GmbH*, Düsseldorf, Germany.
+* Building Team for Enterprise-Integration with Serverless-First approach and strong focus on DDD and EDA (AWS CDK)
+* Set up IT Security Trainings & Awareness Program
+* Implementing Software Procurement Platform & Processes
+* Consulting and overlooking setup of invoicing tool for finance
+* Tech Integration of new Markets & Logistics Partners
+* Oversee microservice migration from AWS Elasticbeanstalk to AWS ECS
+* Migration Elasticsearch Cluster to Opensearch (self hosted, 30 node Cluster)
+* Establishing "(IT)Security Champions" cross company to distribute load & responsibility
+* Compliance & Risk-Management for IT Processes
+`2019-2022`
+**Teamlead IT Operations**, *tonies GmbH*, Düsseldorf, Germany.
+* Hiring & Building Team for Service Desk & Infrastructure
+* Establishing of feedback culture
+* Setup & Configuration of Apple MDM (JamF)
+* New Office Setup (Network, Fibre, Security)
+* Point of contact for Data Privacy Officer
+* Point of contact for all topics on IT Security
+* Establishing new Team Structure - two Focus Teams: IT Administration | System Engineering
+* Hardware Procurement Process Setup
+* OKR Planning
+* Budget Planning
+`2018-2019`
+**Linux System Engineer**, *tonies GmbH*, Düsseldorf, Germany.
+* Moving Microservices to AWS (Elasticbeanstalk, Docker & Terraform)
+* Pushing OpenSource & Linux focused tech strategy
+* Setting up Jira to organize work
+* Concept & Setup of semi-automated additional manufacturing line in China
+* Scaling & Tuning Cloud Infrastructure
+* Initial Office Network Setup
+* Organizing Pen-Test & Follow-Up
+* Establish multi-national setup with expansion to UK
+* Hardware Asset Management
+* On-Call Duty
 
-Standing on the shoulders of giants
 
-### Specialized in
+`2016-2018`
+**Linux System and Network Adminstration**, *IT Department - WHU - Otto Beisheim School of Management*, Düsseldorf, Germany.
+* Concept & Rollout of staged firewall setup
+* Implementing Puppet for automated system configuration
+* Implementing git for version control of configs & documentation
+* Implementing Graylog & Elasticsearch as central logging systems
+* Set up Web-Proxy Cluster with Squid & keepalived
+* Set up RADIUS Cluster with FreeRADIUS
+* Confidant for colleagues
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2015-2019`
+**Co-Founder**, *BeOnline UG*, Koblenz, Germany.
+* Online Web Services & Marketing
+* Tech-Stack: VPS, nginx, mariadb, postfix, dovecot, wordpress
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2014-2016`
+**Working Student IT**, *IT Department - WHU - Otto Beisheim School of Management*, Düsseldorf, Germany.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012-2017`
+**B.Eng., Communication Technology**, *Hochschule Düsseldorf*, Düsseldorf, NRW, Germany.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`2008-2011`
+**Apprenticeship - IT Specialist Infrastructure**, *WHU - Otto Beisheim School of Management & IHK Koblenz*, Vallendar, RLP, Germany.
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2011`
+Special recognition for excellent performance, *IHK Koblenz*, Koblenz, Germany
 
 
+## Voluntary work
 
-## Publications
+`2014-present`
+Hosting, maintaining and administrating Email & Web Server for a local Amercian Football Team (Düsseldorf Bulldozer)
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Languages
 
-### Journals
+Native: German
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Fluent: English
 
-`1669`
-Lectiones opticæ.
+## Personal
 
-etc. etc. etc.
+Birth date: 11 January 1989
 
-### Patents
+Citizenship: German
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Residence: Düsseldorf, Germany
 
 
-
+<br/>Last updated: March 2024<br/><br/>
 <!-- ### Footer
-
 Last updated: May 2013 -->
 
 
