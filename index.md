@@ -8,7 +8,7 @@ Director IT Systems & Infrastructure
 <div id="webaddress">
   <a href="https://sesc.one"><i class="fa-solid fa-house"></i> web</a> - 
   <a href="https://github.com/s256"><i class="fa-brands fa-github"></i> s256</a> - 
-  <a href="https://www.linkedin.com/in/snoe"><i class="fa-brands fa-linkedin"></i> snoe</a> - 
+  <a href="https://www.linkedin.com/in/snoe"><i class="fa-brands fa-linkedin"></i> snoe</a>
 </div>
 
 ## Experience
