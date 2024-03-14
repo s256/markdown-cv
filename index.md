@@ -3,7 +3,13 @@ layout: cv
 title: Sebastian Noe's CV
 ---
 # Sebastian Noe
-Director IT Systems & Infrastructure
+Director IT Systems & Infrastructure, tonies GmbH
+
+tonies GmbH<br/>
+Oststraße 119<br/>
+40229 Düsseldorf, GERMANY<br/>
+
+<a href="mailto:firstname.lastname@tonies.com">firstname.lastname@tonies.com</a>
 
 <div id="webaddress">
   <a href="https://sesc.one"><i class="fa-solid fa-house"></i> web</a> - 
