@@ -9,7 +9,7 @@ tonies GmbH<br/>
 Oststraße 119<br/>
 40229 Düsseldorf, GERMANY<br/>
 
-<a href="mailto:firstname.lastname@tonies.com">firstname.lastname@tonies.com</a>
+<a href="mailto:sebastian@noe.family">sebastian@noe.family</a>
 
 <div id="webaddress">
   <a href="https://sesc.one"><i class="fa-solid fa-house"></i> web</a> - 
@@ -22,16 +22,16 @@ Oststraße 119<br/>
 `2024-present`
 **Director IT Systems & Infrastructure**, *tonies GmbH*, Düsseldorf, Germany.
 - \- Integrating the Business-Processes & ERP Team into the existing structure
-- \- B2B Shop project ownership
-- \- ERP Update & Technological Alignment across markets
-- \- Migrating largest ERP from on-prem to SaaS
-- \- Multi-Language & Multi-Market Update for existing B2B-Shop (composable commerce)
-- \- EDI Interface for Key-Accounts
-- \- Roll-Out MDM for Microsoft Laptops
-- \- Implementing a Vulnerability & Patchmanagement Platform
-- \- MS Azure & 365 Account & Tenant Migration
+- \- ERP (Business Central) Major Upgrade and SaaS Migration
+- \- Multi-Language & Multi-Market Launch for existing B2B-Shop (composable commerce)
+- \- Implement & Roll-Out EDI Interfaces for Key-Accounts
+- \- Establishing a Vulnerability & Patchmanagement Process, Structure and Security-focused mindset
 - \- Permission Management & Compliance Platform for Accounts & Permissions
-
+- \- Global Restructure of Marketplace & Sales Channel Architecture
+- \- Managing IT Audits & Establishing Audit Processes
+- \- Adapting changes for NIS2 Compliance incl. BCM & Disaster Recovery Planning
+- \- Establishing SRE Mindset & Skillset in all engineering teams
+- \- Launching D2C Channels in Australia
 
 `2022-2024`
 **Head of IT Systems & Infrastructure**, *tonies GmbH*, Düsseldorf, Germany.
@@ -44,7 +44,9 @@ Oststraße 119<br/>
 - \- Oversee microservice migration from AWS Elasticbeanstalk to AWS ECS
 - \- Migration Elasticsearch Cluster to Opensearch (self hosted, 30 node Cluster)
 - \- Establishing "(IT)Security Champions" cross company to distribute load & responsibility
+- \- Launching Vulnerability Disclosure Process & Policy
 - \- Compliance & Risk-Management for IT Processes
+- \- Starting Apprenticeships to source new Talents
 
 
 `2019-2022`
@@ -121,15 +123,15 @@ Fluent: English
 
 ## Personal
 
-Birth date: 11 January 1989
+Birth date: 1989
 
 Citizenship: German
 
 Residence: Düsseldorf, Germany
 
 
-<br/>Last updated: March 2024<br/><br/>
+<br/>Last updated: November 2024<br/><br/>
 <!-- ### Footer
-Last updated: May 2013 -->
+Last updated: November 2024 -->
 
 
