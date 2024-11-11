@@ -130,8 +130,8 @@ Citizenship: German
 Residence: Düsseldorf, Germany
 
 
-<br/>Last updated: November 2024<br/><br/>
-<!-- ### Footer
-Last updated: November 2024 -->
+<!-- <br/>Last updated: November 2024<br/><br/> -->
+### Footer
+Last updated: November 2024
 
 
