@@ -3,11 +3,10 @@ layout: cv
 title: Sebastian Noe's CV
 ---
 # Sebastian Noe
-Director IT Systems & Infrastructure, tonies GmbH
+Director IT
 
-tonies GmbH<br/>
-Oststraße 119<br/>
-40229 Düsseldorf, GERMANY<br/>
+
+40227 Düsseldorf, GERMANY<br/>
 
 <a href="mailto:sebastian@noe.family">sebastian@noe.family</a>
 
@@ -17,84 +16,81 @@ Oststraße 119<br/>
   <a href="https://www.linkedin.com/in/snoe"><i class="fa-brands fa-linkedin"></i> snoe</a>
 </div>
 
-## Experience
+## Professional Summary
+Strategic and results-oriented IT leader with over 10 years of experience driving digital transformation, global IT infrastructure, and enterprise integrations. Adept at managing cross-functional teams, large-scale IT projects, and global operations with a strong focus on security, scalability, and process optimization. Demonstrated success in ERP upgrades, cloud migrations, IT compliance, and event-driven architectures. Skilled in building high-performing teams, fostering innovation, and implementing IT governance to support business growth in fast-paced environments. Proven ability to lead major initiatives, from launching global digital solutions to establishing vulnerability management processes.
 
-`2024-present`
+## Core Competencies
+- \- Technology Strategy & Digital Transformation
+- \- Cloud Architecture & Enterprise Integration
+- \- DevOps, Automation, & Agile Methodologies
+- \- Infrastructure Scalability & Optimization
+- \- IT Security & Compliance
+- \- Team Leadership & Talent Development
+- \- Risk Management & Disaster Recovery
+- \- Vendor & Stakeholder Management
+
+## Professional Experience
+
+`03/2024-present`
 **Director IT Systems & Infrastructure**, *tonies GmbH*, Düsseldorf, Germany.
-- \- Integrating the Business-Processes & ERP Team into the existing structure
-- \- ERP (Business Central) Major Upgrade and SaaS Migration
-- \- Multi-Language & Multi-Market Launch for existing B2B-Shop (composable commerce)
-- \- Implement & Roll-Out EDI Interfaces for Key-Accounts
-- \- Establishing a Vulnerability & Patchmanagement Process, Structure and Security-focused mindset
-- \- Permission Management & Compliance Platform for Accounts & Permissions
-- \- Global Restructure of Marketplace & Sales Channel Architecture
-- \- Managing IT Audits & Establishing Audit Processes
-- \- Adapting changes for NIS2 Compliance incl. BCM & Disaster Recovery Planning
-- \- Establishing SRE Mindset & Skillset in all engineering teams
-- \- Launching D2C Channels in Australia
+- \- Integrated Business Processes & ERP team into the existing IT structure
+- \- Led a major ERP (Business Central) upgrade and SaaS migration
+- \- Multi-language & multi-market launch for B2B-Shop (composable commerce) and D2C channels, including Australia
+- \- Implement & Roll-Out EDI Interfaces (ERP)c
+- \- Established vulnerability and patch management processes with a security-first approach
+- \- Introduced Permission Management & Compliance Platform  for account and access management
+- \- Restructured global marketplace and sales channel architecture
+- \- Managed external IT audits and established audit-readiness processes
+- \- Adapted IT processes for NIS2 compliance, including business continuity and disaster recovery planning
+- \- Established SRE (Site Reliability Engineering) practices across engineering teams
+- \- Rolled out a global Product Information Management (PIM) system for cross-team master data improvements
 
-`2022-2024`
+`09/2022-03/2024`
 **Head of IT Systems & Infrastructure**, *tonies GmbH*, Düsseldorf, Germany.
-- \- Building Team for Enterprise-Integration with Serverless-First approach (AWS CDK)
-- \- Strong focus on DDD and EDA 
-- \- Set up IT Security Trainings & Awareness Program
-- \- Implementing Software Procurement Platform & Processes
-- \- Consulting and overlooking setup of invoicing tool for finance
-- \- Tech Integration of new Markets & Logistics Partners
-- \- Oversee microservice migration from AWS Elasticbeanstalk to AWS ECS
-- \- Migration Elasticsearch Cluster to Opensearch (self hosted, 30 node Cluster)
-- \- Establishing "(IT)Security Champions" cross company to distribute load & responsibility
-- \- Launching Vulnerability Disclosure Process & Policy
-- \- Compliance & Risk-Management for IT Processes
-- \- Starting Apprenticeships to source new Talents
+- \- Built and scaled an enterprise integration team with a serverless-first approach saving over 100hrs per month on manual work and almost zero infrastructure costs
+- \- Established event-driven architecture for scalable microservices and integrations
+- \- Deployed a global IT security awareness and training program for employees
+- \- Introduced streamlined software procurement processes and platforms
+- \- Supported the rollout and implementation of an invoicing automation tool
+- \- Led technical integrations for new markets and logistics partners
+- \- Oversaw microservice migration from AWS Elasticbeanstalk to AWS ECS
+- \- Migrated Elasticsearch cluster to OpenSearch with minimal downtime and 50% cost reduction
+- \- Launched a vulnerability disclosure policy and created internal security champions for enhanced cross-team engagement
+- \- Owned compliance and risk management for IT processes
+- \- Established the company’s first apprenticeship program for talent development
 
 
-`2019-2022`
+`09/2019-09/2022`
 **Teamlead IT Operations**, *tonies GmbH*, Düsseldorf, Germany.
-- \- Hiring & Building Team for Service Desk & Infrastructure
-- \- Establishing of feedback culture
-- \- Setup & Configuration of Apple MDM (JamF)
-- \- New Office Setup (Network, Fibre, Security)
-- \- Point of contact for Data Privacy Officer
-- \- Point of contact for all topics on IT Security
-- \- Establishing new Team Structure
-- \- Hardware Procurement Process Setup
-- \- OKR Planning
-- \- Budget Planning
+- \- Hired and developed a team for Service Desk and infrastructure
+- \- Established a feedback-driven team culture
+- \- Implemented Apple MDM for enterprise mobile device management
+- \- Set up and configured a new office network (fiber, security, and infrastructure)
+- \- Point of contact for Data Privacy and IT security topics
+- \- OKR-driven planning cycles
+- \- Managed IT budget and strategic planning
 
 
-`2018-2019`
+`05/2018-09/2019`
 **Linux System Engineer**, *tonies GmbH*, Düsseldorf, Germany.
-- \- Moving Microservices to AWS (Elasticbeanstalk, Docker & Terraform)
-- \- Pushing OpenSource & Linux focused tech strategy
+- \- Cloud Migration from on-premise hosted Microservices to AWS (Elasticbeanstalk, Docker & Terraform)
+- \- Pioneered an open-source and Linux-first technology strategy
 - \- Setting up Jira to organize work
-- \- Concept & Setup of semi-automated additional manufacturing line in China
-- \- Scaling & Tuning Cloud Infrastructure
-- \- Initial Office Network Setup
-- \- Organizing Pen-Test & Follow-Up
-- \- Establish multi-national setup with expansion to UK
-- \- Hardware Asset Management
-- \- On-Call Duty
+- \- Designed and set up a semi-automated manufacturing line in China
+- \- Tuned and scaled cloud infrastructure for growth
+- \- Organizing external Pen-Tests
 
 
-`2016-2018`
+
+`2016-05/2018`
 **Linux System and Network Adminstration**, *IT Department - WHU - Otto Beisheim School of Management*, Düsseldorf, Germany.
-- \- Concept & Rollout of staged firewall setup
-- \- Implementing Puppet for automated system configuration
-- \- Implementing git for version control of configs & documentation
-- \- Implementing Graylog & Elasticsearch as central logging systems
-- \- Set up Web-Proxy Cluster with Squid & keepalived
-- \- Set up RADIUS Cluster with FreeRADIUS
-- \- Confidant for colleagues
+- \- Designed and implemented a multi-layered firewall system
+- \- Establishing first DevOps principles using Infrastructure-as-Code incl. VCS
 
 `2015-2019`
 **Co-Founder**, *BeOnline UG*, Koblenz, Germany.
 - \- Online Web Services & Marketing
-- \- Tech-Stack: VPS, nginx, mariadb, postfix, dovecot, wordpress
-
-`2014-2016`
-**Working Student IT**, *IT Department - WHU - Otto Beisheim School of Management*, Düsseldorf, Germany.
-
+- \- Delivering scalable online & eCommerce services for regional champions & small companies
 
 ## Education
 
@@ -113,7 +109,7 @@ Special recognition for excellent performance, *IHK Koblenz*, Koblenz, Germany
 ## Voluntary work
 
 `2014-present`
-Hosting, maintaining and administrating Email & Web Server for a local Amercian Football Team (Düsseldorf Bulldozer)
+Hosting, maintaining and administrating Email & Web Server for a local American Football Team
 
 ## Languages
 
@@ -131,7 +127,6 @@ Residence: Düsseldorf, Germany
 
 
 <!-- <br/>Last updated: November 2024<br/><br/> -->
-### Footer
-Last updated: November 2024
+### Last updated: February 2025
 
 
