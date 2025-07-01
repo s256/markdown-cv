@@ -3,7 +3,7 @@ layout: cv
 title: Sebastian Noe's CV
 ---
 # Sebastian Noe
-Director IT
+Director Technology
 
 
 40227 Düsseldorf, GERMANY<br/>
@@ -31,14 +31,36 @@ Strategic and results-oriented IT leader with over 10 years of experience drivin
 
 ## Professional Experience
 
+`06/2025-present`
+**Director Technology (interim)**, *tonies GmbH*, Düsseldorf, Germany.
+
+*stepped into the role of Director Technology in addition to the role of Director IT, after our VP left for another company*
+- \- Tech strategy and architecture being well-aligned with the business strategy and that they pay into the vision of the company
+- \- Contributing to the business strategy (since tech enables business strategy)
+- \- Making sure everyone in Tech understands and is aligned with the vision of the company, the business/product strategy and the related tech vision and strategy
+- \- Making sure the product roadmap is delivered with great excellence and reliability
+- \- Making sure the tech strategy is executed with great excellence and reliability
+- \- Represents Tech within the company and to the outside world
+- \- Responsible for business outcome of the tech team in alignment 
+- \- Hiring and retaining the best talent
+
+*Accomplishments:*
+- \- Led multiple engineering teams to launch our first new platform device since beginning of the company (TB2)
+
 `03/2024-present`
 **Director IT Systems & Infrastructure**, *tonies GmbH*, Düsseldorf, Germany.
+- \- IT infrastructure strategy, architecture, and security being well-aligned with the business strategy and paying into the company's vision.
+- \- Enabling business strategy and operations through robust, scalable, and secure IT systems.
+- \- Making sure everyone in the IT  teams understands and is aligned with the company vision, business strategy, and the related IT service vision.
+- \- Ensuring the stability, reliability, and performance of all core IT systems and services.
+- \- Making sure the IT  roadmap is executed with great excellence and reliability.
+
+*Accomplishments:*
 - \- Integrated Business Processes & ERP team into the existing IT structure
-- \- Led a major ERP (Business Central) upgrade and SaaS migration
+- \- Led multiple major ERP projects (Cloud Migration, Org Transformation, SAP Migration)
 - \- Multi-language & multi-market launch for B2B-Shop (composable commerce) and D2C channels, including Australia
-- \- Implement & Roll-Out EDI Interfaces (ERP)c
 - \- Established vulnerability and patch management processes with a security-first approach
-- \- Introduced Permission Management & Compliance Platform  for account and access management
+- \- Introduced Compliance Platform  for account and access management
 - \- Restructured global marketplace and sales channel architecture
 - \- Managed external IT audits and established audit-readiness processes
 - \- Adapted IT processes for NIS2 compliance, including business continuity and disaster recovery planning
